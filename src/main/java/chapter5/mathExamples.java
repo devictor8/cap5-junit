@@ -4,7 +4,7 @@ package chapter5;
  * Hello world!
  *
  */
-public class App 
+public class mathExamples
 {
     public static void main( String[] args )
     {
